@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @yeshiraK
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning c and python( im a beginner)
