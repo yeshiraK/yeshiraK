@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @yeshiraK
-- CSE Undergrad
-- 
+- 👋 Hi, I’m Yeshwanthy S
+- CSE Undergrad at SRMIST
+- front end developer enthusiast
+- wants to know more bout AI/ML
