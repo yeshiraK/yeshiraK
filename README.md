@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Yeshwanthy S
-- CSE Undergrad at SRMIST
+- CSE Undergrad 
 - front end developer enthusiast
 - wants to know more bout AI/ML
