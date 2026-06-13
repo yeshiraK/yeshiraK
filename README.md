@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Yeshwanthy S
 - CSE Undergrad 
-- front end developer enthusiast
-- wants to know more bout AI/ML
+hi lol.
